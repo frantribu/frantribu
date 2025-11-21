@@ -42,7 +42,6 @@
 <footer align="center">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=frantribu&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frantribu&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
     </p>
 </footer>
 
@@ -50,6 +49,7 @@
 <div>
     <p align="left">
     <a href="https://www.linkedin.com/in/franco-triboulard-30779626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+    <a href="mailto:franmartinmdq@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/mail.svg" alt="email" height="30" width="30" /></a>
     </p>
 </div>
 
