@@ -1,5 +1,3 @@
-<img id='gif' align="right" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="240">
-
 <header align="left">
     <h1 align="center">Hola, Soy Franco! <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"></h1>
     <h3 align="left">
