@@ -1,6 +1,6 @@
 
 <header align="left">
-    # <p align="center">Hola, Soy Franco! <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"></p>
+    <h1 align="center">Hola, Soy Franco! <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"></h1>
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
