@@ -48,7 +48,7 @@
 ## 📫 Contacto
 <div>
     <p align="left">
-    <a href="https://www.linkedin.com/in/franco-triboulard/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/franco-triboulard/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
     <a href="mailto:franmartinmdq@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="email" height="30" width="30" /></a>
     </p>
 </div>
