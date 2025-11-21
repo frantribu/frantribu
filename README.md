@@ -49,7 +49,7 @@
 <div>
     <p align="left">
     <a href="https://www.linkedin.com/in/franco-triboulard-30779626a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-    <a href="mailto:franmartinmdq@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/mail.svg" alt="email" height="30" width="30" /></a>
+    <a href="mailto:franmartinmdq@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="email" height="30" width="30" /></a>
     </p>
 </div>
 
