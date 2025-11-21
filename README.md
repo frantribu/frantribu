@@ -1,9 +1,6 @@
-# <p align="center">Hola <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, Soy Franco!</p>
-
-**Bienvenido a mi perfil!**
 
 <header align="left">
-    <h1 align="left">Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    # <p align="center">Hola, Soy Franco! <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px"></p>
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently figuring out what to specialize in</li>
