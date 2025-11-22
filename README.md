@@ -43,7 +43,7 @@
     </p>
 </footer>
 
-## 📫 Contacto
+## 📫 Contactate conmigo
 <div>
     <p align="left">
     <a href="https://www.linkedin.com/in/franco-triboulard-30779626a/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" width="30" /></a>
